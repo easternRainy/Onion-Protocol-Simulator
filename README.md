@@ -31,4 +31,4 @@ M, next = decrypt(M, SK(c)) (next is 'B')
 M, next = decrypt(M, SK(B)) 
 ```
 
-M should be fully decrypted now, and next reaches B.
+M should be fully decrypted now, and message reaches B.
